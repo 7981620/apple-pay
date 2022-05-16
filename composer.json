@@ -1,5 +1,5 @@
 {
-    "name": "payu/apple-pay",
+    "name": "agenta/apple-pay",
     "description": "ApplePay Token Decoder",
     "type": "library",
     "license": "Apache-2.0",
